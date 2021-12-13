@@ -19,7 +19,7 @@ API for accounting of drivers and fleet vehicles.
 
 `pip install -r requirements.txt`
 
-2 - Migrate db models to PostgreSQL:
+2 - Migrate db models to SQLite:
 
 `python3 manage.py migrate`
 
