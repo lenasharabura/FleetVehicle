@@ -1,7 +1,17 @@
-# News board API
+# Fleet Vehicle API
 
-## Simple REST API build with Django-rest-framework
+## Simple REST API builds with Django-rest-framework
+API for accounting of drivers and fleet vehicles.
 
+- Displaying a list of drivers
+- Shows a list of drivers filtered by date
+- Displaying driver information
+- CRUD driver
+- Displaying a list of vehicles
+- Display of vehicles filtered by the presence of a driver
+- Displaying information for a specific vehicle
+- CRUD vehicle
+- Removing, changing the driver in the vehicle
 
 ## Running locally:
 
